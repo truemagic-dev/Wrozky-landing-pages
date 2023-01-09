@@ -119,7 +119,7 @@ img:not([src]) {
 
 .t-name {
   font-family: 'Roboto', Arial, sans-serif;
-  font-weight: 600;
+  /*font-weight: 600;*/
   color: #c98d4e
 }
 
@@ -140,8 +140,9 @@ img:not([src]) {
 }
 
 .t-title_xs {
-  font-size: 42px;
-  line-height: 1.23
+  font-size: 32px;
+  line-height: 1.23;
+  margin-bottom: 30px
 }
 
 .t-title_xxl {
